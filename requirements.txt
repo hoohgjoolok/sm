@@ -1,5 +1,2 @@
 flet
 requests
-plyer
-android
-kivy
